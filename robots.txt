@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cortinas13.github.io/rafacell-cidade-tiradentes/sitemap.xml
